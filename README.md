@@ -60,6 +60,7 @@ Projek ini dilisensikan di bawah [nama lisensi]. Untuk detail lebih lanjut, sila
 
 <a href="https://www.linkedin.com/in/afifhamzah17"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a> LinkedIn <br>
 <a href="https://wa.me/6281367913894"><img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" alt="WhatsApp"/></a> WhatsApp
+<br>
 <a href="https://www.instagram.com/afifhamzah17"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a> Instagram
 
 
