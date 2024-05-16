@@ -100,7 +100,7 @@ const App = () => {
           throw new Error('Invalid YouTube Video URL');
       }
 
-      const response = await fetch(`https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${videoId}&key=AIzaSyD25Q1XV4QHYOkMphIQ1-8GLykORA0cUO8`);
+      const response = await fetch(`https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${videoId}&key=YOUR_API_KEY`);
       const data = await response.json();
 
       if (data.items.length === 0) {
